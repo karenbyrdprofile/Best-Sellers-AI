@@ -1,0 +1,7 @@
+{
+  "name": "Best-Sellers AI",
+  "description": "Your AI Product Advisor that finds real-time Amazon deals, specs, and verified reviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
